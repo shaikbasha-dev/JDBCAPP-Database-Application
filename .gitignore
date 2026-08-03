@@ -1,0 +1,11 @@
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Build files
+bin/
+
+# MySQL connector jar
+*.jar
